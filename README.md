@@ -16,8 +16,7 @@ Gli strumenti utilizzati per la creazione del materiale sono stati:
 ### Contenuto della repository
 - File *README.md*;
 - Cartella *AmazeingDuo_RighettiValentina0* con il progetto;
-- File PDF *AmbientiVirtuali_RighettiValentina* con le specifiche e la descrizione del progetto;
-- Cartella *Builds* con le versioni scaricabili e giocabili del gioco per Mac, Linux e Windows.
+- File PDF *AmbientiVirtuali_RighettiValentina* con le specifiche e la descrizione del progetto.
 
 ### Autore
 Il materiale grafico, audio e video è stato realizzato interamente da me.
