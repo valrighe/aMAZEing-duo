@@ -7,8 +7,8 @@ Progetto d'esame di Ambienti Virtuali - UNIPI 2022
 Il gioco è composto da tre livelli: facile, medio e difficile. Gli ostacoli devono essere superati con l’ascolto di specifici codici/bip/suoni oppure evitandoli se visti. Al centro del gioco la collaborazione fra i due giocatori: alcuni livelli non sono superabili senza il contributo di entrambi.
 
 ### Gli strumenti
-Gli strumenti utilizzati per la creazione del materiale sono stati:
-- Illustrator e Gimp per le sprites;
+- Unity e Visual Studio Code;
+- Adobe Illustrator, Canva e Gimp per le sprites;
 - Bfxr e [AudioMass](https://audiomass.co/) per creare i suoni presenti nel gioco;
 - [OpenDyslexic](https://opendyslexic.org/) come font;
 - [Photon Engine](https://www.photonengine.com/) per giocare in versione multiplayer online.
