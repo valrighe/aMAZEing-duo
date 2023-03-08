@@ -2,7 +2,7 @@
 Progetto d'esame di Ambienti Virtuali - UNIPI 2022
 
 ### Il progetto
-aMAZEing duo è un multiplayer collaborativo in cui due giocatori devono uscire insieme da un labirinto nel quale sono presenti alcuni ostacoli. Uno dei due giocatori è sordo: non sente alcun suono ma può vedere il labirinto e gli ostacoli presenti; l’altro, invece, è cieco e, pertanto, non vede nulla se non i confini esterni del labirinto, sé stesso e il giocatore sordo.
+*aMAZEing duo* è un multiplayer collaborativo in cui due giocatori devono uscire insieme da un labirinto nel quale sono presenti alcuni ostacoli. Uno dei due giocatori è sordo: non sente alcun suono ma può vedere il labirinto e gli ostacoli presenti; l’altro, invece, è cieco e, pertanto, non vede nulla se non i confini esterni del labirinto, sé stesso e il giocatore sordo.
 
 Il gioco è composto da tre livelli: facile, medio e difficile. Gli ostacoli devono essere superati con l’ascolto di specifici codici/bip/suoni oppure evitandoli se visti. Al centro del gioco la collaborazione fra i due giocatori: alcuni livelli non sono superabili senza il contributo di entrambi.
 
